@@ -3,7 +3,7 @@ title: "Independent measurement and dynamic observation of scalar and tensor coe
 collection: publications
 category: manuscripts
 permalink: /publication/2025-03-17-independent-measurement-and-dynamic-observation-of-scalar-and-tensor-coefficients-in-polarization-holography
-excerpt: '本文提出了一种简单有效的方法，用于测量偏振全息中标量（A）和张量（B）系数，并独立观察其变化以确定 A/B 比值，为先进光学器件的制备提供了有力支持。'
+excerpt: 'Polarization holography offers a distinctive advantage by enabling simultaneous control over light waves’ amplitude, polarization, and phase. Within the tensor polarization holography theory framework, coefficients A and B, representing the scalar and tensor components of photoinduced changes in the dielectric tensor, respectively, play a pivotal role in manipulating the reconstruction wave. Accurate measurement and control of A/B are essential for achieving specific functionalities. In this Letter, we present a straightforward and effective method for measuring coefficients A and B, enabling independent observation of their variations while determining A/B. Unlike previous methods, this approach eliminates the influence of the interference angle, simplifies the experimental process, and accommodates the arbitrary polarization state of the recorded hologram. It provides a powerful means of precisely controlling A/B through exposure adjustment, facilitating the fabrication of advanced optical devices for diverse applications.'
 date: 2025-03-17
 venue: 'Optics Letters'
 slidesurl: ''
