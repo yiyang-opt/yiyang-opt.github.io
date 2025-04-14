@@ -3,7 +3,7 @@ title: "Compact detector for vector vortex beams by polarization holography "
 collection: "publications"
 category: "manuscripts"
 permalink: "/publication/2024-11-18-Compact-detector-for-vector-vortex-beams-by-polarization-holography "
-excerpt: : 'This paper is about the Vector vortex beams detector by polarization holography.'
+excerpt: 'This paper is about the Vector vortex beams detector by polarization holography.'
 date: "2024-11-18"
 venue: "Optics Express"
 paperurl: "https://doi.org/10.1364/OE.542116"
