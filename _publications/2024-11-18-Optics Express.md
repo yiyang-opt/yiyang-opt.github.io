@@ -1,8 +1,8 @@
 ---
-title: "Paper Title Number 2"
+title: "Compact detector for vector vortex beams by polarization holography "
 collection: "publications"
 category: "manuscripts"
-permalink: "/publication/2024-11-18-paper-title-number-2"
+permalink: "/publication/2024-11-18-Compact-detector-for-vector-vortex-beams-by-polarization-holography "
 excerpt: >-
   Vector vortex beams (VVBs) have garnered significant attention for their potential to
   revolutionize applications such as high-resolution imaging and quantum communication.
@@ -17,8 +17,8 @@ excerpt: >-
   as a promising tool for advanced optical applications.
 date: "2024-11-18"
 venue: "Optics Express"
-slidesurl: ""
+# slidesurl: ""
 paperurl: "https://doi.org/10.1364/OE.542116"
-bibtexurl: ""
+# bibtexurl: ""
 citation: 'Yi Yang, Peiliang Qi, Xinyi Yuan, Jinyu Wang, Yiping Liu, Tian Ye, Xianmiao Xu, Di Zhang, Shenghui Ke, Shujun Zheng, et al. (2024). "Paper Title Number 2." <i>Optics Express</i>.'
 ---
