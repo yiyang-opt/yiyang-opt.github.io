@@ -17,8 +17,8 @@ excerpt: >-
   as a promising tool for advanced optical applications.
 date: "2024-11-18"
 venue: "Optics Express"
-# slidesurl: ""
+slidesurl: ""
 paperurl: "https://doi.org/10.1364/OE.542116"
-# bibtexurl: ""
-citation: 'Yi Yang, Peiliang Qi, Xinyi Yuan, Jinyu Wang, Yiping Liu, Tian Ye, Xianmiao Xu, Di Zhang, Shenghui Ke, Shujun Zheng, et al. (2024). "Paper Title Number 2." <i>Optics Express</i>.'
+bibtexurl: ""
+citation: 'Yi Yang, Peiliang Qi, Xinyi Yuan, Jinyu Wang, Yiping Liu, Tian Ye, Xianmiao Xu, Di Zhang, Shenghui Ke, Shujun Zheng, et al. (2024). "Compact detector for vector vortex beams by polarization holography." <i>Optics Express</i>.'
 ---
