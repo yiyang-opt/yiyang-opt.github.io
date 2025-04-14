@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Yi Yang(杨毅)"
   pronouns         : # example: "she/her"  
-  bio              : "Polarization"
+  bio              : "Polarization　Holography"
   location         : "Earth"
   employer         : "Fujian Normal University"
   uri              : # URL
@@ -45,12 +45,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : # "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -263,7 +263,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comments: true
   # _portfolio
   - scope:
