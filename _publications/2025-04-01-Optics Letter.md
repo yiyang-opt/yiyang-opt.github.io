@@ -6,9 +6,7 @@ permalink: /publication/2025-04-01-independent-measurement-and-dynamic-observati
 excerpt: ''
 date: 2025-03-17
 venue: 'Optics Letters'
-slidesurl: ''
 paperurl: 'https://doi.org/10.1364/OL.558178'
-bibtexurl: ''
 citation: '1.  Z. Li, Y. Yang, Y. Liu, J. Wang, X. Xu, S. Zheng, X. Yuan, and X. Tan, "Independent measurement and dynamic observation of scalar and tensor coefficients in polarization holography," Opt. Lett. 50(7), 2153 (2025).'
 ---
 
