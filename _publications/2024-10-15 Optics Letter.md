@@ -6,9 +6,7 @@ permalink: /publication/2024-10-15-Orthogonality-of-polarization-superposition-b
 excerpt: ''
 date: 2024-10-15
 venue: 'Optics Letters'
-slidesurl: ''
 paperurl: 'https://doi.org/10.1364/OL.540275'
-bibtexurl: ''
 citation: '1.  X. Xu, S. Zheng, S. Ke, H. Liu, J. Jin, Z. Li, X. Chen, Y. Yang, J. Zheng, X. Li, Q. Cao, and X. Tan, "Orthogonality of polarization superposition based on polarization holography," Opt. Lett. 49(20), 5815 (2024).'
 ---
 
