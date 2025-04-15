@@ -2,7 +2,7 @@
 title: "Comprehensive design of all-optical logic devices utilizing polarization holography"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-08-12-OE.533605
+permalink: /publication/2024-08-12-OE533605
 excerpt: 'This paper is about the Vector vortex beams detector by polarization holography.'
 date: 2024-08-12
 venue: "Optics Express"
