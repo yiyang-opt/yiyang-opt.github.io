@@ -8,6 +8,8 @@ date: 2014-01-01
 location: "FuZhou, China"
 ---
 
+**Python** is one of the most widely-used programming languages worldwide, renowned for its simplicity and versatility across multiple domains.
+
 # Introduction to "Python Programming" Course
 
 **Python**, created by Guido van Rossum in 1991, is a high-level programming language renowned for its **simplicity**, **readability**, and **versatility**. Its design philosophy emphasizes code clarity through concise syntax and indentation-based block structures. As a dynamically typed, interpreted, and cross-platform language, Python supports multiple programming paradigms, including object-oriented, functional, and procedural approaches. Its extensive standard library and rich ecosystem of third-party frameworks (e.g., Django, Flask, Pandas, PyTorch, Matplotlib, and other frameworks for building deep learning models) make it adaptable to diverse applications.
@@ -38,14 +40,15 @@ This course covers:
    - Object-oriented programming (OOP)  
 
 3. **Applications**:  
-   - Introductory web development with Flask  
-   - Data analysis using Pandas  
+   - Introductory web development with Flask, Django  
+   - Data analysis using Pandas, Numpy, Matpltlib  
 
 4. **Best Practices**:  
    - **Modular Programming**: Imports, packages, standard libraries (`sys`, `os`, `json`)  
    - **File Operations**: Reading/writing files, context managers, serialization  
    - **GUIs**: Basics of GUI development (e.g., Tkinter)  
-   - **Databases**: SQLite integration, CRUD operations with Python DB-API  
+   - **Databases**: SQLite integration, CRUD operations with Python DB-API
+   - **Deep Learning**: Design neural networks with PyTorch (tensors, autograd, CNN/RNN, et. implementation, and training pipelines)  
 
 ## Learning Objectives
 
@@ -57,10 +60,7 @@ By course completion, students will:
 
 ## Recommended Textbook
 
-- **MLA**  
   Hetland, Magnus Lie. *Python Basics: A Practical Introduction to Python 3*. 3rd ed., Revised, translated by Yuan Guozhong, People's Posts and Telecommunications Press, 2017.
-
-- **MLA**  
   Ramalho, Luciano. *Fluent Python: Clear, Concise, and Effective Programming*. O'Reilly Media, 2015.
 
 ---
