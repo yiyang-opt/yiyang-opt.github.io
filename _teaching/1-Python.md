@@ -3,7 +3,7 @@ title: "Python"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/python
-venue: "Fujian Normal University, CPEE"
+venue: "Fujian Normal University, PaEE"
 date: 2021-01-01
 location: "FuZhou, China"
 ---
