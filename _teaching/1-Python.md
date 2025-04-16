@@ -74,9 +74,7 @@ Experienced programmers in any other language can pick up Python very quickly, a
 ```python
 >>> print("Hello, I'm Python!")
 Hello, I'm Python!
-
 # Input, assignment
-
 >>> name = input('What is your name?\n')
 What is your name?
 Python
