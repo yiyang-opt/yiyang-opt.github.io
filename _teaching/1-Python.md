@@ -5,7 +5,7 @@ type: "Undergraduate course"
 permalink: /teaching/python
 venue: "Fujian Normal University, PaEE"
 date: 2021-01-01
-location: "FuZhou, China"
+location: "FuZhou"
 ---
 
 **Python** is one of the most widely-used programming languages worldwide, renowned for its simplicity and versatility across multiple domains.
