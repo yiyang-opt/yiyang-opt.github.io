@@ -3,7 +3,7 @@ title: "Method for fabricating circular polarization beam splitters based on pol
 collection: publications
 category: manuscripts
 permalink: /publication/2024-08-15-Method-for-fabricating-circular-polarization-beam-splitters-based-on-polarization-holography
-excerpt: 'This paper is about the Vector vortex beams detector by polarization holography.'
+excerpt: ''
 date: 2024-08-12
 venue: "Optics Letter"
 paperurl: "https://doi.org/10.1364/OE.533605"
