@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/applied-optics
 venue: "Fujian Normal University, PaEE"
-date: 2022
+date: 2023-01-01
 location: "Fuzhou, Fujian"
 ---
 
