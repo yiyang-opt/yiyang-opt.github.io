@@ -72,6 +72,7 @@ By course completion, students will:
 Experienced programmers in any other language can pick up Python very quickly, and beginners find the clean syntax and indentation structure easy to learn. Whet your appetite with our Python 3 overview.
 
 ```python
+# Simple output (with Unicode)
 >>> print("Hello, I'm Python!")
 Hello, I'm Python!
 # Input, assignment
