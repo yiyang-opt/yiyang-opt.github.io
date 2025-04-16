@@ -65,7 +65,7 @@ By course completion, students will:
 
 ---
 
-## Below is an example illustrating Python's applications:
+## Here are some examples that showcase Python’s coding style
 
 ## Quick & Easy to Learn
 
