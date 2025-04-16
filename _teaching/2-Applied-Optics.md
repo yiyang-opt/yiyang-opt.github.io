@@ -5,7 +5,7 @@ type: "Undergraduate course"
 permalink: /teaching/applied-optics
 venue: "Fujian Normal University, PaEE"
 date: 2023-01-01
-location: "Fuzhou, Fujian"
+location: "Fuzhou"
 ---
 
 *Applied Optics* provides an in-depth study of the behavior of light, optical system design, and image formation through a blend of theory and practical analysis.
