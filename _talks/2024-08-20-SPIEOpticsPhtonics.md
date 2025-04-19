@@ -8,4 +8,4 @@ date: 2024-08-20
 location: "San Diego, CA, USA"
 ---
 
-This talk presents the use of polarization holography for detecting vector vortex beams and mapping them onto the Poincaré sphere. The method enables precise analysis of complex vectorial light fields. Authors: Yi Yang, Peiliang Qi, Jinyu Wang, Xinyi Yuan, Xianmiao Xu, Shenghui Ke, Shujun Zheng, and Xiaodi Tan.
+ Authors: Yi Yang, Peiliang Qi, Jinyu Wang, Xinyi Yuan, Xianmiao Xu, Shenghui Ke, Shujun Zheng, and Xiaodi Tan.
